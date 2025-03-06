@@ -6,7 +6,7 @@
 /*   By: rkhakimu <rkhakimu@student.hive.fi>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/04/28 15:00:14 by rkhakimu          #+#    #+#             */
-/*   Updated: 2025/03/05 16:45:46 by rkhakimu         ###   ########.fr       */
+/*   Updated: 2025/03/06 09:54:30 by rkhakimu         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -15,6 +15,7 @@
 
 # include <stdlib.h>
 # include <unistd.h>
+# include <limits.h>
 # include "get_next_line_bonus.h"
 # include "ft_printf.h"
 
