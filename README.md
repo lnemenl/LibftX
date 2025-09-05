@@ -1,7 +1,4 @@
 # libftX
-<p align="center">
-    <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/refs/heads/main/covers/cover-libft-bonus.png" alt="LibftX Cover">
-</p>
 
 ---
 
